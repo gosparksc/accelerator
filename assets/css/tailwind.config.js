@@ -9,6 +9,7 @@ module.exports = {
       '1/2': '50%',
       '3/4': '75%',
     },
+    
     minHeight:{
       '3/4': '75%'
     },
@@ -28,6 +29,7 @@ module.exports = {
         form: '#FFEDBE',
         formBox: '#FAE2A3',
         company: '#4C585C',
+        link: '#c95959',
       }
     },
   },
